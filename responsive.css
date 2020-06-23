@@ -1,0 +1,113 @@
+@media (max-width: 1000px) {
+  .top-wrapper h1 {
+    font-size: 40px;
+  }
+
+  .top-wrapper h2 {
+    font-size: 28px;
+    text-shadow: 2px 2px #A9A9A9;
+  }
+
+  .top-wrapper p {
+    font-size: 18px;
+  }
+
+  .heading h2 {
+    font-size: 20px;
+  }
+
+  .select {
+    width: 50%;
+  }
+
+  .galery-foto {
+      width: 50%;
+      margin-bottom: 50px;
+  }
+
+  .foto-wisata .label {
+    left: 140px;
+  }
+}
+
+@media (max-width: 670px) {
+  .header-right li {
+    display: none;
+  }
+
+  .judul {
+    font-size: 20px;
+    margin-top: 5px;
+  }
+
+  .menu-icon {
+    display: block;
+    color: white;
+    float: right;
+    font-size: 25px;
+    margin: 10px;
+  }
+
+  .top-wrapper h1 {
+    font-size: 37px;
+  }
+
+  .top-wrapper h2 {
+    font-size: 25px;
+    text-shadow: 2px 2px #A9A9A9;
+  }
+
+  .top-wrapper p {
+    font-size: 15px;
+  }
+
+  .select {
+    width: 100%;
+  }
+
+  .select-icon img {
+    height: 100px;
+    width: 120px;
+  }
+
+  .select-icon p {
+    font-size: 15px;
+  }
+
+  .txt-contents {
+    font-size: 13px;
+  }
+
+  .galery-foto {
+    width: 100%;
+  }
+
+  .foto-wisata .label {
+    left: 142px;
+  }
+
+  .first {
+    font-size: 18px;
+  }
+
+  .second {
+    font-size: 15px;
+  }
+
+  .program {
+    padding-top: 20px;
+    font-size: 9px;
+  }
+
+  .facebook {
+    padding-top: 20px;
+  }
+
+  .twitter {
+    padding-top: 20px;
+  }
+
+  .footer-list {
+    font-size: 10px;
+  }
+}
